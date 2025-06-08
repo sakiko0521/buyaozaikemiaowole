@@ -40,18 +40,6 @@ export default {
   data() {
     return {
       professors: [
-        {
-          name: "Zhang Wei",
-          title: "Professor, PhD Supervisor",
-          research: "Artificial Intelligence, Machine Learning",
-          email: "zhangwei@cqupt.edu.cn"
-        },
-        {
-          name: "Li Xiaoming",
-          title: "Associate Professor",
-          research: "Cybersecurity, Blockchain",
-          email: "lixm@cqupt.edu.cn"
-        }
       ],
       researchAreas: [
         {
